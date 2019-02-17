@@ -1,5 +1,5 @@
 {
 	"template" : "([0-9]{6}) is your verification code",
 	"len": 6,
-	"lt": 9000
+	"lt": 9500
 }
